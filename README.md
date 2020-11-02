@@ -1,3 +1,3 @@
 # Projet-Numerique
-# Projet-Maths-Info
-# Projet-Maths-Info
+# 02/11/2020
+# Adrien Mignot & Chloé Vogel
